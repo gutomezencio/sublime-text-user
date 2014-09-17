@@ -1,0 +1,30 @@
+{
+	"color_scheme": "Packages/Color Schemes - Custom/Calydon plain Guto.tmtheme",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro Light",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 14.0,
+	"highlight_whitespaces_space_highlight_scope_name": "comment",
+	"highlight_whitespaces_tab_highlight_scope_name": "comment",
+	"ignored_packages":
+	[
+		"AdvancedNewFile",
+		"jQuery",
+		"HTML-CSS-JS Prettify",
+		"Web Inspector",
+		"Handlebars",
+		"Vintage",
+		"Color Highlighter",
+		"Markdown Preview"
+	],
+	"phoenix_color_orange": true,
+	"phoenix_solid_current_tab": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

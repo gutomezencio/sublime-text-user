@@ -1,0 +1,37 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"Apple Pips Color Scheme",
+		"ASCII Decorator",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Case Conversion",
+		"Color Highlighter",
+		"Color Schemes by carlcalderon",
+		"ColorPicker",
+		"Compass",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Express Color Scheme",
+		"FindKeyConflicts",
+		"GitGutter",
+		"Handlebars",
+		"HTML Compressor",
+		"HTML-CSS-JS Prettify",
+		"Inc-Dec-Value",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"Minifier",
+		"Placeholders",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Flatland"
+	]
+}
